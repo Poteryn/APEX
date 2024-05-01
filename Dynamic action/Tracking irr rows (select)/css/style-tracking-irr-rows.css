@@ -1,0 +1,4 @@
+/*выбранная строка отчета*/
+.irr_row_selected td{
+    background-color: #76b8e166!important;
+}

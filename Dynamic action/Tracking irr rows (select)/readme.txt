@@ -1,0 +1,1 @@
+Added tracking a selected rows for interective report and add event for selected rows.
