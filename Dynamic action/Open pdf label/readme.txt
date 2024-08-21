@@ -1,0 +1,1 @@
+this plug-in call procedure with dynamic pl/sql for call procedure generate pdf label
